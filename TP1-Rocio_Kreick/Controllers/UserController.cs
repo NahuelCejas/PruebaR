@@ -1,6 +1,4 @@
 ﻿using Application.Interfaces.IServices.IUserServices;
-using Domain.Entities;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace TP1_Rocio_Kreick.Controllers

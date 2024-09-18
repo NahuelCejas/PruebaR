@@ -17,7 +17,6 @@ using Application.UseCase.TaskStatusServices;
 using Application.UseCase.UserServices;
 using Application.Validators;
 using FluentValidation;
-
 using Infrastructure.Command;
 using Infrastructure.Persistence;
 using Infrastructure.Query;

@@ -1,12 +1,6 @@
 ﻿using Application.Interfaces.ICommand;
-using Application.Response;
 using Domain.Entities;
 using Infrastructure.Persistence;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Infrastructure.Command
 {

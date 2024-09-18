@@ -7,11 +7,6 @@ using Application.Models;
 using Application.Request;
 using Application.Response;
 using Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.UseCase.ProjectServices
 {
@@ -33,7 +28,6 @@ namespace Application.UseCase.ProjectServices
             _tasksValidator = tasksValidator;
             _interactionsValidator = interactionsValidator;
         }
-
 
         public async Task<Interactions> AddInteraction(Guid projectId, InteractionsRequest request)
         {

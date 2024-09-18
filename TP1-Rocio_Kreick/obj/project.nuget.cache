@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DowDVLQT5o=",
+  "dgSpecHash": "Q21zIP47tcg=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\UNAJ\\Ingeniería en Informática\\Proyecto de Software\\2024\\TPs\\para enviar\\TP1-Rocio_Kreick(sin Tests)\\TP1-Rocio_Kreick\\TP1-Rocio_Kreick\\TP1-Rocio_Kreick.csproj",
+  "projectFilePath": "D:\\Documents\\UNAJ\\Ingeniería en Informática\\Proyecto de Software\\2024\\TPs\\Prueba\\TP1-Rocio_Kreick(sin Tests)\\TP1-Rocio_Kreick\\TP1-Rocio_Kreick\\TP1-Rocio_Kreick.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nahue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nahue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

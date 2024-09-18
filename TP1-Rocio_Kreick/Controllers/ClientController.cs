@@ -1,8 +1,6 @@
 ﻿using Application.Models;
 using Application.Response;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Application.Exceptions;
 using Application.Interfaces.IServices.IClientServices;
 
 namespace TP1_Rocio_Kreick.Controllers

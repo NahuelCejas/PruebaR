@@ -3,8 +3,6 @@ using Application.Interfaces.IQuery;
 using Application.Interfaces.IServices.IProjectServices;
 using Application.Request;
 using Application.Response;
-using FluentValidation;
-using Application.Validators;
 using Application.Interfaces.IValidator;
 using Application.Exceptions;
 

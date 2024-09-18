@@ -1,7 +1,5 @@
 ﻿using Application.Interfaces.IServices.ICampaignTypeServices;
 using Application.Response;
-using Application.UseCase;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace TP1_Rocio_Kreick.Controllers

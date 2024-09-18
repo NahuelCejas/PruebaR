@@ -3,9 +3,7 @@ using Application.Interfaces.IServices.IProjectServices;
 using Application.Models;
 using Application.Request;
 using Application.Response;
-using Application.UseCase;
 using FluentValidation;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace TP1_Rocio_Kreick.Controllers
